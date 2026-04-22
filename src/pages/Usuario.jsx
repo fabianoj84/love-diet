@@ -32,7 +32,7 @@ export function Usuario() {
 
   return (
     <div className="min-h-screen bg-[#EEE9F2]">
-      <div className="max-w-[320px] mx-auto px-4 py-4">
+      <div className="w-full max-w-[420px] mx-auto px-5 py-4">
         <motion.div
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
