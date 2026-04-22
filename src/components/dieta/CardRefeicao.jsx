@@ -15,21 +15,21 @@ export function CardRefeicao({ refeicao }) {
       <button
         type="button"
         onClick={toggle}
-        className="w-full grid grid-cols-[auto_1fr] items-center gap-3 px-3 py-3 text-left"
+        className="w-full grid grid-cols-[auto_1fr] items-center gap-3.5 px-4 py-4 text-left"
       >
         {refeicao.imagem ? (
           <img
             src={refeicao.imagem}
             alt={refeicao.nome}
-            className="w-6 h-6 rounded-full object-cover"
+            className="w-8 h-8 rounded-full object-cover"
             onError={(e) => {
               e.currentTarget.style.display = 'none';
             }}
           />
         ) : (
-          <div className="w-6 h-6 rounded-full bg-[#E6E6E6]" />
+          <div className="w-8 h-8 rounded-full bg-[#E6E6E6]" />
         )}
-        <span className="text-white text-[14px] font-medium leading-none">
+        <span className="text-white text-[16px] font-semibold leading-none">
           {refeicao.nome}
         </span>
       </button>
@@ -43,12 +43,12 @@ export function CardRefeicao({ refeicao }) {
             transition={{ duration: 0.2, ease: 'easeInOut' }}
             className="overflow-hidden"
           >
-            <div className="px-3 pt-2 pb-2">
+            <div className="px-4 pt-3 pb-3">
               <div className="w-full border-t border-white/30 mt-2 mb-1" />
 
-              <div className="grid grid-cols-[1fr_54px_18px] items-center px-1 mb-1">
-                <span className="text-white text-[11px] font-medium">Categoria</span>
-                <span className="text-white text-[11px] font-medium text-center">
+              <div className="grid grid-cols-[1fr_70px_24px] items-center px-1 mb-1">
+                <span className="text-white text-[13px] font-medium">Categoria</span>
+                <span className="text-white text-[13px] font-medium text-center">
                   Porção
                 </span>
                 <span />

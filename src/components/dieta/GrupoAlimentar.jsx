@@ -15,11 +15,11 @@ export function GrupoAlimentar({ grupo }) {
       <button
         type="button"
         onClick={hasItems ? toggle : undefined}
-        className="w-full grid grid-cols-[1fr_54px_18px] items-center px-1 py-1 text-left"
+        className="w-full grid grid-cols-[1fr_70px_24px] items-center px-1 py-2 text-left"
       >
-        <span className="text-white text-[12px] font-normal">{grupo.categoria}</span>
-        <span className="text-white text-[12px] text-center">{grupo.porcoes}</span>
-        <span className="text-white text-[12px] text-right leading-none">
+        <span className="text-white text-[15px] font-normal">{grupo.categoria}</span>
+        <span className="text-white text-[15px] text-center">{grupo.porcoes}</span>
+        <span className="text-white text-[15px] text-right leading-none">
           {hasItems ? (isOpen ? '−' : '+') : ''}
         </span>
       </button>
