@@ -38,10 +38,13 @@ export function Home() {
         </div>
 
         <div className="pb-6 text-center">
-          <button className="text-[10px] text-white/70 hover:text-white transition-colors">
-            Configuração
-          </button>
-          <div className="mt-1 text-[8px] text-white/40">Made with ♥ por Fabiano</div>
+         <button
+        onClick={() => navigate('/config')}
+        className="text-[20px] text-white/70 hover:text-white transition-colors"
+>
+             Configuração
+        </button>
+          <div className="mt-4 text-[8px] text-white/40">Feito com <span className="text-red-600"> ❤ </span> por Fabiano</div>
         </div>
       </motion.div>
     </div>

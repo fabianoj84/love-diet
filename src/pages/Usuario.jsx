@@ -40,14 +40,14 @@ export function Usuario() {
         >
           <div className="flex items-start justify-between mb-5">
             <div>
-              <h1 className="text-[#EF5170] text-[15px] font-semibold leading-none">
+              <h1 className="text-[#EF5170] text-[24px] font-semibold leading-none">
                 Olá, {usuario.nome}
               </h1>
             </div>
 
             <button
               onClick={() => navigate('/')}
-              className="w-11 h-11 rounded-full bg-[#D9D9D9] flex items-center justify-center overflow-hidden"
+              className="w-12 h-12 rounded-full bg-[#D9D9D9] flex items-center justify-center overflow-hidden"
             >
               {usuario.fotoPerfil ? (
                 <img
