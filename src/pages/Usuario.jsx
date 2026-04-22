@@ -32,15 +32,15 @@ export function Usuario() {
 
   return (
     <div className="min-h-screen bg-[#EEE9F2]">
-      <div className="w-full max-w-[420px] mx-auto px-5 py-4">
+      <div className="w-full max-w-[420px] mx-auto px-5 pt-5 pb-8">
         <motion.div
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ duration: 0.22 }}
         >
-          <div className="flex items-start justify-between mb-5">
+          <div className="flex items-start justify-between mb-6">
             <div>
-              <h1 className="text-[#EF5170] text-[24px] font-semibold leading-none">
+              <h1 className="text-[#EF5170] text-[26px] font-semibold leading-none">
                 Olá, {usuario.nome}
               </h1>
             </div>
@@ -68,8 +68,8 @@ export function Usuario() {
 
           <MetaDiaria meta={usuario.metas} />
 
-          <section className="mt-4">
-            <h2 className="text-[#0D1164] text-[13px] font-medium mb-2">
+          <section className="mt-5">
+            <h2 className="text-[#0D1164] text-[15px] font-medium mb-3">
               Refeições
             </h2>
             <ListaRefeicoes refeicoes={dieta.refeicoes} />
