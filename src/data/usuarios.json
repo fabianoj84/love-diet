@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nome": "Marina",
+    "iniciais": "M",
+    "fotoPerfil": "https://i.postimg.cc/JnkxbLSH/marina-avatar-0001.jpg",
+    "dataInicio": "2026-04-01",
+    "pesoKg": 68,
+    "alturaCm": 165,
+    "metas": {
+      "kcal": 1600,
+      "carboidratosG": 186,
+      "proteinasG": 186,
+      "gordurasG": 186
+    }
+  },
+  {
+    "id": 2,
+    "nome": "Fabiano",
+    "iniciais": "F",
+    "fotoPerfil": "",
+    "dataInicio": "2026-04-01",
+    "pesoKg": 82,
+    "alturaCm": 178,
+    "metas": {
+      "kcal": 2200,
+      "carboidratosG": 220,
+      "proteinasG": 165,
+      "gordurasG": 73
+    }
+  }
+]
