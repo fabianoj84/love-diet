@@ -4,6 +4,8 @@ import { MetaDiaria } from '../components/dieta/MetaDiaria';
 import { ListaRefeicoes } from '../components/dieta/ListaRefeicoes';
 import usuarios from '../data/usuarios.json';
 import dietas from '../data/dietas.json';
+import { OrientacoesDieta } from '../components/dieta/OrientacoesDieta';
+import orientacoes from '../data/orientacoes.json';
 
 export function Usuario() {
   const { id } = useParams();
@@ -11,6 +13,7 @@ export function Usuario() {
 
   const usuario = usuarios.find((u) => u.id === parseInt(id));
   const dieta = dietas[id];
+  const orientacoesUsuario = orientacoes[id];
 
   if (!usuario || !dieta) {
     return (
@@ -74,6 +77,7 @@ export function Usuario() {
             </h2>
             <ListaRefeicoes refeicoes={dieta.refeicoes} />
           </section>
+           <OrientacoesDieta orientacoes={orientacoesUsuario} />
         </motion.div>
       </div>
     </div>

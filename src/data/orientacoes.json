@@ -1,0 +1,118 @@
+{
+  "1": {
+    "vegetaisLiberados": [
+      "Acelga",
+      "Agrião",
+      "Aipo",
+      "Alface",
+      "Almeirão",
+      "Cenoura",
+      "Chicória",
+      "Couve",
+      "Couve-flor",
+      "Escarola",
+      "Espinafre",
+      "Folha de beterraba",
+      "Jiló",
+      "Maxixe",
+      "Nabo",
+      "Pepino",
+      "Pimentão",
+      "Rabanete",
+      "Repolho",
+      "Rúcula",
+      "Salsa",
+      "Tomate"
+    ],
+    "bebidasOutros": [
+      "Sal",
+      "Limão",
+      "Alho",
+      "Vinagre",
+      "Chá verde / ervas",
+      "Café sem açúcar",
+      "Adoçante"
+    ],
+    "consumoModerado": [
+      "Abóbora",
+      "Abobrinha",
+      "Alcachofra",
+      "Aspargos",
+      "Berinjela",
+      "Beterraba",
+      "Brócolis",
+      "Broto de bambu",
+      "Broto de feijão",
+      "Cebola",
+      "Cenoura",
+      "Chuchu",
+      "Cogumelo",
+      "Couve-flor",
+      "Ervilha fresca",
+      "Palmito",
+      "Quiabo"
+    ],
+    "observacoes": [
+      "Beber pelo menos 3 litros de água.",
+      "Pode comer uma pequena quantidade de chocolate, preferencialmente 70%."
+    ]
+  },
+  "2": {
+    "vegetaisLiberados": [
+      "Acelga",
+      "Agrião",
+      "Aipo",
+      "Alface",
+      "Almeirão",
+      "Cenoura",
+      "Chicória",
+      "Couve",
+      "Couve-flor",
+      "Escarola",
+      "Espinafre",
+      "Folha de beterraba",
+      "Jiló",
+      "Maxixe",
+      "Nabo",
+      "Pepino",
+      "Pimentão",
+      "Rabanete",
+      "Repolho",
+      "Rúcula",
+      "Salsa",
+      "Tomate"
+    ],
+    "bebidasOutros": [
+      "Sal",
+      "Limão",
+      "Alho",
+      "Vinagre",
+      "Chá verde / ervas",
+      "Café sem açúcar",
+      "Adoçante"
+    ],
+    "consumoModerado": [
+      "Abóbora",
+      "Abobrinha",
+      "Alcachofra",
+      "Aspargos",
+      "Berinjela",
+      "Beterraba",
+      "Brócolis",
+      "Broto de bambu",
+      "Broto de feijão",
+      "Cebola",
+      "Cenoura",
+      "Chuchu",
+      "Cogumelo",
+      "Couve-flor",
+      "Ervilha fresca",
+      "Palmito",
+      "Quiabo"
+    ],
+    "observacoes": [
+      "Beber pelo menos 3 litros de água.",
+      "Pode comer uma pequena quantidade de chocolate, preferencialmente 70%."
+    ]
+  }
+}
