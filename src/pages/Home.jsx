@@ -41,7 +41,7 @@ export function Home() {
           <button className="text-[10px] text-white/70 hover:text-white transition-colors">
             Configuração
           </button>
-          <div className="mt-1 text-[8px] text-white/40">Made with ♥</div>
+          <div className="mt-1 text-[8px] text-white/40">Made with ♥ por Fabiano</div>
         </div>
       </motion.div>
     </div>
