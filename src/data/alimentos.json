@@ -74,7 +74,7 @@
   {
     "id": "maionese-industrializada",
     "grupo": "Gordura",
-    "nome": "Maionese industrializada",
+    "nome": "Maionese",
     "descricao": "Maionese tradicional de mercado",
     "energiaKcal": 72,
     "carboidratosG": 1,
@@ -86,7 +86,7 @@
   {
     "id": "manteiga-margarina",
     "grupo": "Gordura",
-    "nome": "Manteiga/Margarina",
+    "nome": "Margarina",
     "descricao": "Manteiga com sal ou margarina vegetal",
     "energiaKcal": 74,
     "carboidratosG": 0,
