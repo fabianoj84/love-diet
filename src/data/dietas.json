@@ -20,6 +20,25 @@
           }
         ]
       },
+       {
+        "id": "lanche-manhã",
+        "nome": "Lanche",
+        "imagem": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d",
+        "grupos": [
+          {
+            "categoria": "Proteína",
+            "porcoes": 0
+          },
+          {
+            "categoria": "Carboidrato",
+            "porcoes": 2
+          },
+          {
+            "categoria": "Gordura",
+            "porcoes": 0
+          }
+        ]
+      },
       {
         "id": "almoco",
         "nome": "Almoço",
@@ -27,11 +46,11 @@
         "grupos": [
           {
             "categoria": "Proteína",
-            "porcoes": 3
+            "porcoes": 4
           },
           {
             "categoria": "Carboidrato",
-            "porcoes": 4
+            "porcoes": 3
           },
           {
             "categoria": "Gordura",
@@ -50,7 +69,7 @@
           },
           {
             "categoria": "Carboidrato",
-            "porcoes": 1
+            "porcoes": 0
           },
           {
             "categoria": "Gordura",
