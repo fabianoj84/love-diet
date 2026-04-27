@@ -252,6 +252,18 @@
     "imagem": ""
   },
   {
+    "id": "tapioca-goma",
+    "grupo": "Carboidrato",
+    "nome": "Tapioca (Goma hidratada)",
+    "descricao": "Fonte de energia rápida, sem glúten",
+    "energiaKcal": 46,
+    "carboidratosG": 12,
+    "proteinasG": 0,
+    "gordurasG": 0,
+    "porcao": "20g (1 colher de sopa)",
+    "imagem": ""
+  },
+  {
     "id": "feijao-carioca",
     "grupo": "Carboidrato",
     "nome": "Feijão carioca",
