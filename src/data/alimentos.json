@@ -216,18 +216,6 @@
     "imagem": ""
   },
   {
-    "id": "laranja",
-    "grupo": "Carboidrato",
-    "nome": "Laranja",
-    "descricao": "Crua (100g)",
-    "energiaKcal": 31.5,
-    "carboidratosG": 8.4,
-    "proteinasG": 0,
-    "gordurasG": 0,
-    "porcao": "1/2 Laranja",
-    "imagem": ""
-  },
-  {
     "id": "banana-prata",
     "grupo": "Carboidrato",
     "nome": "Banana Prata",

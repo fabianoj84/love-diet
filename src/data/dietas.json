@@ -4,7 +4,7 @@
       {
         "id": "cafe-da-manha",
         "nome": "Café da Manhã",
-        "imagem": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d",
+        "imagem": "https://i.postimg.cc/kXxyZLnk/Cafe-da-manha-com-ovo-202605011421.jpg",
         "grupos": [
           {
             "categoria": "Proteína",
@@ -23,7 +23,7 @@
        {
         "id": "lanche-manhã",
         "nome": "Lanche",
-        "imagem": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d",
+        "imagem": "https://i.postimg.cc/nrdnc3xS/Banana-em-prato-com-leite-202605011427.jpg",
         "grupos": [
           {
             "categoria": "Proteína",
@@ -42,7 +42,7 @@
       {
         "id": "almoco",
         "nome": "Almoço",
-        "imagem": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d",
+        "imagem": "https://i.postimg.cc/HspJYNwz/Arroz-bife-abobora-salada-202605011425.jpg",
         "grupos": [
           {
             "categoria": "Proteína",
@@ -61,7 +61,7 @@
       {
         "id": "lanche",
         "nome": "Lanche",
-        "imagem": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d",
+        "imagem": "https://i.postimg.cc/bwVLHkYc/Coqueteleira-com-whey-protein-e-202605011435.jpg",
         "grupos": [
           {
             "categoria": "Proteína",
@@ -80,7 +80,7 @@
       {
         "id": "cafe-da-tarde",
         "nome": "Café da Tarde",
-        "imagem": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d",
+        "imagem": "https://i.postimg.cc/7LNdkfqy/Cafe-e-cafeteira-estilo-italiana-202605011430.jpg",
         "grupos": [
           {
             "categoria": "Proteína",
@@ -99,7 +99,7 @@
       {
         "id": "janta",
         "nome": "Janta",
-        "imagem": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d",
+        "imagem": "https://i.postimg.cc/HspJYNwz/Arroz-bife-abobora-salada-202605011425.jpg",
         "grupos": [
           {
             "categoria": "Proteína",
@@ -122,7 +122,7 @@
       {
         "id": "cafe-da-manha",
         "nome": "Café da Manhã",
-        "imagem": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d",
+        "imagem": "https://i.postimg.cc/kXxyZLnk/Cafe-da-manha-com-ovo-202605011421.jpg",
         "grupos": [
           {
             "categoria": "Proteína",
@@ -141,7 +141,7 @@
       {
         "id": "almoco",
         "nome": "Almoço",
-        "imagem": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d",
+        "imagem": "https://i.postimg.cc/HspJYNwz/Arroz-bife-abobora-salada-202605011425.jpg",
         "grupos": [
           {
             "categoria": "Proteína",
@@ -160,7 +160,7 @@
       {
         "id": "lanche",
         "nome": "Lanche",
-        "imagem": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d",
+        "imagem": "https://i.postimg.cc/bwVLHkYc/Coqueteleira-com-whey-protein-e-202605011435.jpg",
         "grupos": [
           {
             "categoria": "Proteína",
@@ -179,7 +179,7 @@
       {
         "id": "cafe-da-tarde",
         "nome": "Café da Tarde",
-        "imagem": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d",
+        "imagem": "https://i.postimg.cc/7LNdkfqy/Cafe-e-cafeteira-estilo-italiana-202605011430.jpg",
         "grupos": [
           {
             "categoria": "Proteína",
@@ -198,7 +198,7 @@
       {
         "id": "janta",
         "nome": "Janta",
-        "imagem": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d",
+        "imagem": "https://i.postimg.cc/HspJYNwz/Arroz-bife-abobora-salada-202605011425.jpg",
         "grupos": [
           {
             "categoria": "Proteína",
