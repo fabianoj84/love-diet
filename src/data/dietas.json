@@ -124,9 +124,18 @@
         "nome": "Café da Manhã",
         "imagem": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d",
         "grupos": [
-          { "categoria": "Proteína", "porcoes": 3 },
-          { "categoria": "Carboidrato", "porcoes": 3 },
-          { "categoria": "Gordura", "porcoes": 1 }
+          {
+            "categoria": "Proteína",
+            "porcoes": 3
+          },
+          {
+            "categoria": "Carboidrato",
+            "porcoes": 2
+          },
+          {
+            "categoria": "Gordura",
+            "porcoes": 1
+          }
         ]
       },
       {
@@ -134,9 +143,18 @@
         "nome": "Almoço",
         "imagem": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d",
         "grupos": [
-          { "categoria": "Proteína", "porcoes": 4 },
-          { "categoria": "Carboidrato", "porcoes": 4 },
-          { "categoria": "Gordura", "porcoes": 2 }
+          {
+            "categoria": "Proteína",
+            "porcoes": 5
+          },
+          {
+            "categoria": "Carboidrato",
+            "porcoes": 6
+          },
+          {
+            "categoria": "Gordura",
+            "porcoes": 1
+          }
         ]
       },
       {
@@ -144,9 +162,18 @@
         "nome": "Lanche",
         "imagem": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d",
         "grupos": [
-          { "categoria": "Proteína", "porcoes": 2 },
-          { "categoria": "Carboidrato", "porcoes": 1 },
-          { "categoria": "Gordura", "porcoes": 1 }
+          {
+            "categoria": "Proteína",
+            "porcoes": 2
+          },
+          {
+            "categoria": "Carboidrato",
+            "porcoes": 2
+          },
+          {
+            "categoria": "Gordura",
+            "porcoes": 0
+          }
         ]
       },
       {
@@ -154,9 +181,18 @@
         "nome": "Café da Tarde",
         "imagem": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d",
         "grupos": [
-          { "categoria": "Proteína", "porcoes": 2 },
-          { "categoria": "Carboidrato", "porcoes": 2 },
-          { "categoria": "Gordura", "porcoes": 1 }
+          {
+            "categoria": "Proteína",
+            "porcoes": 3
+          },
+          {
+            "categoria": "Carboidrato",
+            "porcoes": 2
+          },
+          {
+            "categoria": "Gordura",
+            "porcoes": 1
+          }
         ]
       },
       {
@@ -164,9 +200,18 @@
         "nome": "Janta",
         "imagem": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d",
         "grupos": [
-          { "categoria": "Proteína", "porcoes": 3 },
-          { "categoria": "Carboidrato", "porcoes": 3 },
-          { "categoria": "Gordura", "porcoes": 1 }
+          {
+            "categoria": "Proteína",
+            "porcoes": 4
+          },
+          {
+            "categoria": "Carboidrato",
+            "porcoes": 6
+          },
+          {
+            "categoria": "Gordura",
+            "porcoes": 0
+          }
         ]
       }
     ]
